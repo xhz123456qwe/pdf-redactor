@@ -1,0 +1,7 @@
+# Build and runtime dependencies. Build the distributable with CPython 3.11 x64.
+PyMuPDF>=1.24,<1.27
+Pillow>=10,<12
+numpy>=1.24,<2.1
+paddlepaddle>=2.6,<3.0
+paddleocr>=2.7,<3.0
+pyinstaller>=6.0,<7.0
